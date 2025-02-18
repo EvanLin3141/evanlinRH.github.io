@@ -1,9 +1,9 @@
----
-layout: post
-title:  "Sample Blog Entry"
-date:   2024-11-4 12:58:15 +0100
-categories: jekyll update
----
+ ---
+ layout: post # leave as is
+ title:  "Test Title" # add whatever title you'd like
+ date:   <2024-02-18> <03:13:50> +0100 # update the date and time
+ categories: jekyll update # leave as is
+ ---
 
 ## Welcome To Your Blog!
 
