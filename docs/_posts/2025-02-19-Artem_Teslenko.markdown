@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Sample Blog Entry"
-date:   2024-11-4 12:58:15 +0100
+title:  "Random Title"
+date:   2025-02-19 12:01:50 +0100
 categories: jekyll update
 ---
 

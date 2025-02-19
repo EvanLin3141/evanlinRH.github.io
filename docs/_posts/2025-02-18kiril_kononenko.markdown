@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Sample Blog Entry"
-date:   2024-11-4 12:58:15 +0100
+title:  "kiril blog"
+date:   2025-02-18 14:10:15 +0100
 categories: jekyll update
 ---
 
