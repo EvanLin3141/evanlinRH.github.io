@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Douglas Blog"
-date:   2025-19-2 10:31:00 +0100
+date:   2025-2-19 10:31:00 +0100
 categories: jekyll update
 ---
 
